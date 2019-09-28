@@ -1,0 +1,22 @@
+{
+  "environment": "web",
+  "format": "html",
+  "prefix": "https://storage.googleapis.com",
+  "mainga": "UA-49880327-14",
+  "updated": "2019-09-28T11:24:48+02:00",
+  "id": "a",
+  "duration": 5,
+  "title": "Codelab A",
+  "summary": "the summary",
+  "source": "/Users/larsdenbakker/Workspace/code/private/open-wc/codelabs/src/lit-element/a.md",
+  "theme": "",
+  "status": null,
+  "category": [
+    "a",
+    "b",
+    "c",
+    "d"
+  ],
+  "tags": [],
+  "url": "a"
+}
